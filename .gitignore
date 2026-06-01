@@ -1,0 +1,27 @@
+node_modules/
+.next/
+dist/
+build/
+contracts/out/
+contracts/cache/
+circuits/**/target/
+*.tsbuildinfo
+
+.env
+.env.*
+
+# internal — never publish (kept local only)
+PLAN.md
+agent-os/
+docs/PRODUCT_BRIEF.md
+docs/internal/
+
+.passiv-session-id
+.passiv/
+
+agent-os/HANDOVER.md
+agent-os/SPRINT_LOG.md
+agent-os/PROJECT_STATE.md
+agent-os/BLOCKERS.md
+agent-os/PRODUCTION_READINESS.md
+agent-os/WORKFLOW.md
