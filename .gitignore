@@ -13,6 +13,7 @@ circuits/**/target/
 # internal — never publish (kept local only)
 PLAN.md
 agent-os/
+hooks/
 docs/PRODUCT_BRIEF.md
 docs/internal/
 
